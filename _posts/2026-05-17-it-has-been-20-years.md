@@ -1,9 +1,7 @@
 ---
 layout: post
 title:  20 years
-excerpt: I got my first software job 20 years ago.
- 
- Reclections on the past and future
+excerpt: I got my first software job 20 years ago.<br/>Reflections on the past and future
 ---
 
 This month it's been 20 years since I started my first real job in software. It's also 20 years since I created my profile on LinkedIn. I think it's fair to say that the field of software has changed a bit since then.
