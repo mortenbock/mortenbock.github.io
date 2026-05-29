@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Managing an evolving sql schema. A declarative approach.
+excerpt: A look into using a declarative approach to deploying sql schema changes.
 ---
 
 For many years, I have been used to applications evolving therir sql schema via migrations. Different flavors like FluentMigrator or EF Core migrations, but essentially the same concept. A stream of instructions that modify a database.
